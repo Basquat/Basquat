@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Estudante de Analíse e Desenvolvimento de Sistemas | Desenvolvedor Backend Java | Spring Ecosystem<br><br>🌟 Stack Tecnológico<br>Backend: Java • Spring Framework • Spring Boot • REST APIs<br>Banco de Dados: MySQL • Design e Otimização de Databases<br>Ferramentas: Git/GitHub • Linux • Sistemas Distribuídos<br>Conceitos: POO • Estruturas de Dados • Fundamentos de System Design<br><br>🚀 Foco Profissional<br>- Desenvolvimento de sistemas backend escaláveis com Java & Spring<br>- Preparação para oportunidades internacionais em big techs<br>- Contribuição em projetos de alto impacto tecnológico<br><br>📚 Em Aprofundamento<br>Spring Ecosystem • Arquitetura de Software • Database Performance</p>
+<p align="left">Estudante de Analíse e Desenvolvimento de Sistemas | Desenvolvedor Backend Java | Spring Ecosystem<br><br> Stack Tecnológico<br>Backend: Java • Spring Framework • Spring Boot • REST APIs<br>Banco de Dados: MySQL • Design e Otimização de Databases<br>Ferramentas: Git/GitHub • Linux • Sistemas Distribuídos<br>Conceitos: POO • Estruturas de Dados • Fundamentos de System Design<br><br> Foco Profissional<br>- Desenvolvimento de sistemas backend escaláveis com Java & Spring<br>- Preparação para oportunidades internacionais em big techs<br>- Contribuição em projetos de alto impacto tecnológico<br><br> Em Aprofundamento<br>Spring Ecosystem • Arquitetura de Software • Database Performance</p>
 
 ###
 
