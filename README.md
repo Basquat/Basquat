@@ -1,4 +1,4 @@
-<p align="left">Ola ! Meu nome é João Daniel de Cerqueira Lisboa</p>
+<h2 align="left">Olá ! Me chamo João Daniel e este é meu readme sobre skills e falo mais sobre mim<br><br>Hello ! My name is João Daniel and this is my readme where i talk more about my skills and about me</h2>
 
 ###
 
@@ -6,32 +6,26 @@
 
 ###
 
-<p align="left">Estudante de Analíse e Desenvolvimento de Sistemas | Desenvolvedor Backend Java | Spring Ecosystem<br><br> Stack Tecnológico<br>Backend: Java • Spring Framework • Spring Boot • REST APIs<br>Banco de Dados: MySQL • Design e Otimização de Databases<br>Ferramentas: Git/GitHub • Linux • Sistemas Distribuídos<br>Conceitos: POO • Estruturas de Dados • Fundamentos de System Design<br><br> Foco Profissional<br>- Desenvolvimento de sistemas backend escaláveis com Java & Spring<br>- Preparação para oportunidades internacionais em big techs<br>- Contribuição em projetos de alto impacto tecnológico<br><br> Em Aprofundamento<br>Spring Ecosystem • Arquitetura de Software • Database Performance</p>
+<h5 align="left">Português:<br><br>Desenvolvedor de Software em Formação com foco em Backend. Sou proficiente em Java e Spring Boot para o desenvolvimento de APIs REST e possuo domínio em SQL (MariaDB/MySQL). Minha experiência prática inclui o desenvolvimento de um Sistema de Estacionamento Fullstack. Estou em constante aprimoramento, estudando Python, GenAI e utilizando ferramentas como Git e Linux. Busco uma oportunidade de estágio para aplicar minhas habilidades técnicas e contribuir com uma equipe ágil (Scrum).<br><br>English:<br><br>Software Developer in Training with a focus on Backend. I am proficient in Java and Spring Boot for developing REST APIs and have a strong command of SQL (MariaDB/MySQL). My practical experience includes developing a Fullstack Parking System. I am continuously improving my skills, currently studying Python, GenAI, and utilizing tools like Git and Linux. I am seeking an internship opportunity to apply my technical skills and contribute to an agile team (Scrum).</h5>
 
 ###
 
-<h2 align="left">Hard Skills</h2>
+<h1 align="left">Hard Skills</h1>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
-
-###
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
