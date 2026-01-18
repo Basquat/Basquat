@@ -1,4 +1,7 @@
-<h2 align="left">Olá ! Me chamo João Daniel e este é meu readme sobre skills e falo mais sobre mim<br><br>Hello ! My name is João Daniel and this is my readme where i talk more about my skills and about me</h2>
+<h2 align="left">
+Olá! Me chamo João Daniel e este é meu README, onde apresento minhas habilidades técnicas e um pouco sobre mim.<br><br>
+Hello! My name is João Daniel and this is my README, where I introduce my technical skills and tell a bit about myself.
+</h2>
 
 ###
 
@@ -6,7 +9,21 @@
 
 ###
 
-<h5 align="left">Português:<br><br>Desenvolvedor de Software em Formação com foco em Backend. Sou proficiente em Java e Spring Boot para o desenvolvimento de APIs REST e possuo domínio em SQL (MariaDB/MySQL). Minha experiência prática inclui o desenvolvimento de um Sistema de Estacionamento Fullstack. Estou em constante aprimoramento, estudando Python, GenAI e utilizando ferramentas como Git e Linux. Busco uma oportunidade de estágio para aplicar minhas habilidades técnicas e contribuir com uma equipe ágil (Scrum).<br><br>English:<br><br>Software Developer in Training with a focus on Backend. I am proficient in Java and Spring Boot for developing REST APIs and have a strong command of SQL (MariaDB/MySQL). My practical experience includes developing a Fullstack Parking System. I am continuously improving my skills, currently studying Python, GenAI, and utilizing tools like Git and Linux. I am seeking an internship opportunity to apply my technical skills and contribute to an agile team (Scrum).</h5>
+<h5 align="left">
+Português:<br><br>
+Desenvolvedor de Software em formação, com foco em Backend e no ecossistema Java. Possuo experiência prática no desenvolvimento de APIs REST utilizando Java e Spring Boot, bem como na modelagem e persistência de dados com bancos relacionais (MariaDB/MySQL).<br><br>
+
+Atuo no desenvolvimento de projetos práticos com aplicação real, como um Sistema de Estacionamento Fullstack, onde aplico conceitos de arquitetura em camadas, organização de domínio, boas práticas de código (Clean Code, SOLID) e integração backend–frontend.<br><br>
+
+Tenho familiaridade com ambientes Linux, versionamento com Git/GitHub e uso de Docker para padronização de ambientes de desenvolvimento. Atualmente, busco uma oportunidade de estágio ou posição júnior para evoluir tecnicamente em um ambiente profissional, contribuindo com uma base sólida em backend e aprendizado contínuo em metodologias ágeis (Scrum).<br><br>
+
+English:<br><br>
+Software Developer in training, focused on Backend development and the Java ecosystem. I have hands-on experience developing REST APIs using Java and Spring Boot, as well as data modeling and persistence with relational databases (MariaDB/MySQL).<br><br>
+
+I actively work on practical projects with real-world application, such as a Fullstack Parking System, where I apply layered architecture concepts, domain organization, clean code practices (SOLID), and backend–frontend integration.<br><br>
+
+I am comfortable working in Linux environments, using Git/GitHub for version control, and Docker for development environment standardization. I am currently seeking an internship or junior position to grow professionally in a backend-focused role, contributing with a strong technical foundation and continuous learning in agile environments (Scrum).
+</h5>
 
 ###
 
@@ -15,17 +32,19 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
 </div>
 
 ###
