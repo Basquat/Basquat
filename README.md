@@ -69,20 +69,32 @@ com banco de dados.
 
 <h2>📌 O que este repositório representa</h2>
 
-<ul>
-  <li>📦 Projetos acadêmicos e pessoais focados em <b>backend</b></li>
-  <li>🔌 Desenvolvimento de <b>APIs REST</b></li>
-  <li>🗄️ Integração com bancos de dados relacionais e NoSQL</li>
-  <li>🐳 Uso inicial de <b>Docker</b> para padronização de ambiente</li>
-</ul>
+<p>
+Este repositório reúne projetos desenvolvidos ao longo da minha formação em
+<b>Análise e Desenvolvimento de Sistemas</b>, com foco no estudo e aplicação prática
+de conceitos de <b>backend</b>.
+</p>
+
+<p>
+Aqui concentro experimentos, estudos e implementações que envolvem
+<b>Java</b>, <b>Spring Boot</b>, desenvolvimento de <b>APIs</b>, organização de código,
+boas práticas e integração com bancos de dados relacionais.
+Cada projeto reflete uma etapa do meu aprendizado e da minha evolução técnica.
+</p>
 
 <hr/>
 
 <h2>🌱 Em constante evolução</h2>
 
 <p>
-Este GitHub reflete minha jornada de aprendizado.
-Cada projeto aqui representa prática real, estudo contínuo e evolução técnica gradual.
+Este repositório está em constante evolução, acompanhando meu processo de aprendizado
+e aprofundamento técnico.
+</p>
+
+<p>
+Novos projetos, refatorações e melhorias são adicionados conforme avanço nos estudos,
+exploro novas abordagens e consolido conceitos relacionados a backend, arquitetura
+de aplicações e lógica de programação.
 </p>
 
 <hr/>
