@@ -1,32 +1,30 @@
 <!-- =========================================================
-     JOÃO DANIEL
+     JOÃO DANIEL DE C. LISBOA • GITHUB PROFILE README
+     Tema Dark • Backend em Formação (PT-BR)
 ========================================================= -->
 
 <!-- BANNER TOPO -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=João%20Daniel&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=52&desc=Estudante%20de%20ADS%20%7C%20Backend%20em%20Formação&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,100:1F2937"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=João%20Daniel%20de%20C.%20Lisboa&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=48&desc=Estudante%20de%20ADS%20%7C%20Spring%20%7C%20Java%20%7C%20SQL%20%7C%20Backend%20em%20forma%C3%A7%C3%A3o&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,100:1F2937"
   />
 </p>
 
-<!-- FRASE CURTA -->
+<!-- FRASE -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Aprendendo+backend+na+pr%C3%A1tica+com+Java%2C+Spring+e+bancos+de+dados."
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Estudando+backend+com+foco+em+APIs%2C+l%C3%B3gica+e+boas+pr%C3%A1ticas."
     alt="Texto animado"
   />
 </p>
 
 <!-- BOTÕES -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/joão-daniel-de-cerqueira-lisboa-0184a7356" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:joaodan.lisboa@gmail.com">
     <img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/seuusuario">
-    <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -34,21 +32,36 @@
 
 <h2>🧠 Sobre mim</h2>
 
-<ul>
-  <li><b>Formação:</b> Análise e Desenvolvimento de Sistemas (ADS).</li>
-  <li><b>Foco atual:</b> Desenvolvimento <b>Backend</b> com <b>Java e Spring Boot</b>.</li>
-  <li><b>Interesses:</b> APIs REST, lógica de programação, bancos de dados e boas práticas.</li>
-  <li><b>Objetivo:</b> Conquistar minha primeira oportunidade de <b>estágio</b> ou <b>posição júnior</b>.</li>
-</ul>
+<p>
+Olá! Me chamo <b>João Daniel</b>, sou estudante de <b>Análise e Desenvolvimento de Sistemas</b>.
+Acredito ser um bom adendo para uma empresa pois busco constantemente ampliar minhas habilidades de
+<b>comunicação</b>, <b>trabalho em equipe</b> e <b>programação</b>.
+</p>
+
+<p>
+Possuo projetos e experiências pessoais envolvendo <b>APIs</b> e conceitos fundamentais de programação,
+com foco em <b>backend</b>. Tenho maior vivência no desenvolvimento de APIs utilizando
+<b>Java</b> com <b>Spring Boot</b>, aplicando conceitos básicos de arquitetura, organização de código
+e integração com banco de dados.
+</p>
+
+<p>
+Atualmente, estudo <b>Python</b> em paralelo para aumentar minha versatilidade e fortalecer
+minha <b>lógica de programação</b>. Também possuo boa experiência com <b>banco de dados MySQL</b>,
+além de familiaridade com <b>Linux</b>, utilizando as distribuições <b>CachyOS</b> e <b>Fedora</b>,
+bem como <b>Windows 10 e 11</b>.
+</p>
 
 <pre>
 const joaoDaniel = {
-  status: "Estudante de ADS",
+  formacao: "Análise e Desenvolvimento de Sistemas",
   foco: "Backend",
-  stack: ["Java", "Spring Boot", "Python"],
+  experiencia: ["APIs REST", "Lógica de Programação", "Banco de Dados"],
+  linguagens: ["Java", "Python"],
+  frameworks: ["Spring Boot"],
   bancos: ["MySQL", "MongoDB"],
-  ferramentas: ["Docker", "Git"],
-  objetivo: "Aprender na prática e evoluir como desenvolvedor backend"
+  sistemas: ["Linux (CachyOS, Fedora)", "Windows 10/11"],
+  objetivo: "Evoluir tecnicamente e conquistar minha primeira oportunidade profissional"
 };
 </pre>
 
@@ -72,37 +85,37 @@ const joaoDaniel = {
 <h2>🧩 Stack Tecnológica</h2>
 
 <div align="center">
-  <h4>💻 Linguagens</h4>
+  <h4>🧠 Backend (Linguagens)</h4>
   <img src="https://skillicons.dev/icons?i=java,python" />
 
-  <h4>🧱 Backend</h4>
+  <h4>🧱 Frameworks</h4>
   <img src="https://skillicons.dev/icons?i=spring" />
 
   <h4>🗄️ Bancos de Dados</h4>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
-  <h4>🛠️ Ferramentas</h4>
-  <img src="https://skillicons.dev/icons?i=docker,git,github" />
+  <h4>🛠️ Ferramentas & Ambiente</h4>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
 </div>
 
 <hr/>
 
-<h2>📌 O que você vai encontrar aqui</h2>
+<h2>📌 O que este repositório representa</h2>
 
 <ul>
-  <li>📦 Projetos acadêmicos e pessoais em <b>Java</b> e <b>Spring Boot</b></li>
-  <li>🔌 APIs REST simples e organizadas</li>
-  <li>🗄️ Integração com bancos relacionais e NoSQL</li>
-  <li>🐳 Uso inicial de Docker para ambiente de desenvolvimento</li>
+  <li>📦 Projetos acadêmicos e pessoais focados em <b>backend</b></li>
+  <li>🔌 Desenvolvimento de <b>APIs REST</b></li>
+  <li>🗄️ Integração com bancos de dados relacionais e NoSQL</li>
+  <li>🐳 Uso inicial de <b>Docker</b> para padronização de ambiente</li>
 </ul>
 
 <hr/>
 
-<h2>🌱 Em evolução</h2>
+<h2>🌱 Em constante evolução</h2>
 
 <p>
-Este perfil representa minha fase de aprendizado.  
-Os projetos aqui refletem estudo contínuo, prática e evolução real — sem atalhos.
+Este GitHub reflete minha jornada de aprendizado.
+Cada projeto aqui representa prática real, estudo contínuo e evolução técnica gradual.
 </p>
 
 <hr/>
@@ -110,13 +123,13 @@ Os projetos aqui refletem estudo contínuo, prática e evolução real — sem a
 <h2>📬 Contato</h2>
 
 <p align="center">
-  <b>Email:</b> seuemail@gmail.com<br/>
-  <b>LinkedIn:</b> linkedin.com/in/seu-linkedin
+  📧 <b>Email:</b> joaodan.lisboa@gmail.com<br/>
+  🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/joão-daniel-de-cerqueira-lisboa-0184a7356">Meu perfil</a>
 </p>
 
 <!-- BANNER RODAPÉ -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=100&text=Aprender+%E2%86%92+Praticar+%E2%86%92+Evoluir&fontColor=FFFFFF&fontSize=30&color=0:0B1220,100:1F2937"
+    src="https://capsule-render.vercel.app/api?type=rect&height=100&text=Backend+se+aprende+na+pr%C3%A1tica&fontColor=FFFFFF&fontSize=30&color=0:0B1220,100:1F2937"
   />
 </p>
