@@ -45,25 +45,6 @@ com foco em <b>backend</b>. Tenho maior vivência no desenvolvimento de APIs uti
 e integração com banco de dados.
 </p>
 
-<p>
-Atualmente, estudo <b>Python</b> em paralelo para aumentar minha versatilidade e fortalecer
-minha <b>lógica de programação</b>. Também possuo boa experiência com <b>banco de dados MySQL</b>,
-além de familiaridade com <b>Linux</b>, utilizando as distribuições <b>CachyOS</b> e <b>Fedora</b>,
-bem como <b>Windows 10 e 11</b>.
-</p>
-
-<pre>
-const joaoDaniel = {
-  formacao: "Análise e Desenvolvimento de Sistemas",
-  foco: "Backend",
-  experiencia: ["APIs REST", "Lógica de Programação", "Banco de Dados"],
-  linguagens: ["Java", "Python"],
-  frameworks: ["Spring Boot"],
-  bancos: ["MySQL", "MongoDB"],
-  sistemas: ["Linux (CachyOS, Fedora)", "Windows 10/11"],
-  objetivo: "Evoluir tecnicamente e conquistar minha primeira oportunidade profissional"
-};
-</pre>
 
 <hr/>
 
