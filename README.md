@@ -33,16 +33,16 @@
 <h2>🧠 Sobre mim</h2>
 
 <p>
-Olá! Me chamo <b>João Daniel</b>, sou estudante de <b>Análise e Desenvolvimento de Sistemas</b>.
-Acredito ser um bom adendo para uma empresa pois busco constantemente ampliar minhas habilidades de
-<b>comunicação</b>, <b>trabalho em equipe</b> e <b>programação</b>.
+Olá! Me chamo <b>João Daniel</b> e sou estudante de <b>Análise e Desenvolvimento de Sistemas</b>.
+Atualmente estou focado em aprender e evoluir em desenvolvimento de software, principalmente
+na parte de <b>backend</b>, fortalecendo lógica de programação e entendimento de como sistemas funcionam na prática.
 </p>
 
 <p>
-Possuo projetos e experiências pessoais envolvendo <b>APIs</b> e conceitos fundamentais de programação,
-com foco em <b>backend</b>. Tenho maior vivência no desenvolvimento de APIs utilizando
-<b>Java</b> com <b>Spring Boot</b>, aplicando conceitos básicos de arquitetura, organização de código
-e integração com banco de dados.
+Tenho projetos e experiências pessoais com <b>APIs</b> e conceitos fundamentais de programação.
+Minha maior vivência é no desenvolvimento de APIs utilizando <b>Java</b> com <b>Spring Boot</b>,
+onde aplico conceitos básicos de organização de código, estrutura de aplicações e integração
+com banco de dados.
 </p>
 
 
