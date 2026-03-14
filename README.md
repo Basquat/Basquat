@@ -45,7 +45,7 @@ Em expansão para infraestrutura cloud com **AWS** e **Azure**, e utilizando ati
 // João Daniel Lisboa — Backend Engineer
 public class AboutMe {
 
-    String[] stack     = {"Java 21/25", "Spring Boot", "Spring Cloud", "Docker", "PostgreSQL"};
+    String[] stack     = {"Java 25", "Spring Boot", "Spring Cloud", "Docker", "PostgreSQL"};
     String[] learning  = {"AWS", "Azure", "Spring Security (avançado)", "Java + QA"};
     String[] os        = {"CachyOS (Arch Linux)", "Windows 10/11"};
     String   role      = "Monitor Acadêmico — Back-End @ UNIJORGE";
@@ -62,17 +62,15 @@ public class AboutMe {
 ## 🗂️ Projetos em Destaque
 
 ### 🅿️ [Sistema de Gestão de Estacionamento](https://github.com/Basquat/Estacionamento)
-> Sistema transacional completo de controle de fluxo de veículos com autenticação por perfil.
+> Sistema transacional completo de controle de fluxo de veículos.
 
-![Java](https://img.shields.io/badge/Java%2011-F59E0B?style=flat-square&logo=openjdk&logoColor=0F1117)
+![Java](https://img.shields.io/badge/Java%2025-F59E0B?style=flat-square&logo=openjdk&logoColor=0F1117)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1E2330?style=flat-square&logo=springboot&logoColor=6EE7B7)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-1E2330?style=flat-square&logo=springsecurity&logoColor=6EE7B7)
 ![JPA](https://img.shields.io/badge/Spring%20Data%20JPA-1E2330?style=flat-square&logo=hibernate&logoColor=6EE7B7)
 ![React](https://img.shields.io/badge/React-1E2330?style=flat-square&logo=react&logoColor=38BDF8)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-1E2330?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 
 - 🔧 Backend feito **integralmente à mão** — Model, Controller e Repository com lógica de negócios própria para cálculo de tarifas e gestão de estados
-- 🔐 **Autenticação RBAC** via Spring Security, protegendo endpoints por perfil de usuário
 - 🎨 Frontend **(Estaciona+)** construído com auxílio de IA como acelerador: React + Tailwind CSS com estética dark, upload de foto com compressão via canvas e ícones SVG customizados
 - 💡 Projeto que une profundidade backend com entrega de produto visual funcional
 
@@ -81,7 +79,7 @@ public class AboutMe {
 ### 📦 [Sistema de Pedidos — Microsserviços](https://github.com/Basquat)
 > Arquitetura distribuída com 3 serviços independentes orquestrados via Eureka.
 
-![Java](https://img.shields.io/badge/Java%2021-F59E0B?style=flat-square&logo=openjdk&logoColor=0F1117)
+![Java](https://img.shields.io/badge/Java%2025-F59E0B?style=flat-square&logo=openjdk&logoColor=0F1117)
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-1E2330?style=flat-square&logo=spring&logoColor=6EE7B7)
 ![Eureka](https://img.shields.io/badge/Eureka%20Server-1E2330?style=flat-square&logo=spring&logoColor=6EE7B7)
 ![Docker](https://img.shields.io/badge/Docker-1E2330?style=flat-square&logo=docker&logoColor=38BDF8)
