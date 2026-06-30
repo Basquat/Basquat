@@ -16,9 +16,6 @@ Desenvolvedor backend em formação com foco em **Java e Spring Boot**. Construo
 
 Paralelamente, faço **Iniciação Científica em IA** no Projeto Zélia (UNIJORGE), desenvolvendo agentes conversacionais RAG + ReAct com LangChain, LangGraph e Google Gemini. Membro da **LIAU** (Liga Acadêmica em Inteligência Artificial).
 
-> Procuro minha primeira oportunidade como **estagiário ou desenvolvedor júnior backend** — presencial em Salvador/BA ou remoto.
-
-
 
 ## 🛠️ Tecnologias
 
